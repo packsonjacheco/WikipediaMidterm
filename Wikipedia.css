@@ -1,0 +1,141 @@
+body{
+	background-color:#F6F6F6;
+}
+
+.side-bar{
+  float:left;
+  background-color:#F6F6F6;
+  font: sans-serif;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font:sans-serif;
+}
+
+.contents{
+  float: left;
+  background-color:#F6F6F6;
+  border: 1px solid grey;
+  font: sans-serif;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font:sans-serif;
+}
+
+.main-container{
+  float:center;
+  background-color:white;
+  border: 1px solid #7accff;
+  font: sans-serif;
+  margin-left: 185px;
+  padding-left:50px;
+  padding-right:15px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font:sans-serif;
+}
+
+.pic{
+  float: right;
+  background-color:#F6F6F6;
+  font: sans-serif;
+  padding-left:5px;
+  padding-right:5px;
+  padding-top:5px;
+  padding-bottom:5px;
+  margin-left: 10px;
+ }
+
+ .column{
+  float: left;
+  background-color:white;
+  font-family: sans-serif;
+  font-size: 10px;
+  color: black;
+  line-height: 1.6;
+  padding-left:5px;
+  padding-right:5px;
+  padding-top:5px;
+  padding-bottom:5px;
+  width: 30%;
+ }
+
+ .notes:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#footer{
+  clear: both;
+  background-color:#F6F6F6;
+  padding-left:200px;
+  padding-right:50px;
+  padding-top:50px;
+  padding-bottom:50px;
+  font-family: sans-serif;
+  font-size: 10px;
+  color: black;
+  line-height: 1.0;
+}
+
+
+
+h1{
+  font-family: serif;
+  font-size: 32px;
+  font-weight: lighter;
+  color: black;
+}
+
+h2{
+  font-size: 25px;
+  font-weight: lighter;
+  font-family: serif;
+  color: black;
+}
+
+h4{
+  font-size: 18px;
+  font-family: sans-serif;
+  color: black;
+  line-height: 1;
+  margin: 0;
+}
+
+p{
+  font-family: sans-serif;
+  font-size: 14px;
+  color: black;
+  line-height: 1.6;
+}
+
+a{
+ text-decoration: none;
+  font-family: sans-serif;
+  font-size: 13px;
+  color: black;
+}
+
+a:link {
+    text-decoration: none;
+    font-size: 13px;
+    color: #3264ba;
+}
+
+a:visited {
+    color: #721d87;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+ul{
+  font-family: sans-serif;
+  font-size: 14px;
+  color: black;
+  line-height: 1.6;
+  font-style: italic;
+}
